@@ -1,0 +1,4 @@
+Rencana Harian Staff IT
+- Mempelajari Git dan GitHub
+- Push Source Code ke GitHub
+- Review Repo
