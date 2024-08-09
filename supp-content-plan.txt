@@ -1,4 +1,4 @@
 Rencana Harian Staff IT
-- Mempelajari Bit dan GitHub
+- Mempelajari Git dan GitHub
 - Push Source Code ke GitHub
 - Review Repo
